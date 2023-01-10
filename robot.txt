@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /temp/
-Disallow: /dev/
-Sitemap:https://mohamedazizsliti.github.io/food.github.io/sitemap.xml
+Disallow: 
+Allow: /
+Sitemap: https://mohamedazizsliti.github.io/food.github.io/sitemap.xml
